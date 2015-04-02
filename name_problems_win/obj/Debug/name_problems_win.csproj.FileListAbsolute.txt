@@ -1,0 +1,8 @@
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\bin\Debug\name_problems_win.exe
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\bin\Debug\name_problems_win.pdb
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.csprojResolveAssemblyReference.cache
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.Properties.Resources.resources
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.csproj.GenerateResource.Cache
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.exe
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.pdb
+E:\_dev\_1\1\proj_name_pb\name_problems_win\name_problems_win\obj\Debug\name_problems_win.frmNames.resources
